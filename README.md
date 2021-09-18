@@ -43,7 +43,11 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 - Access information such as product features and other academic search software developed by the DataHammer research group, including academic search engines and knowledge graphs; choose to switch between multiple languages including Chinese, English and Japanese.
 - Information positioning & comprehension translation function: the physical information of the paper is marked and positioned by different colours, including the marking of tasks, methods, data, indicators, referents and other information, which facilitates researchers to better understand the literature.
 - Expanded Information Functionality: Access important literature information including author information, journal information and paper codes on the academic database platform, saving researchers time in collecting literature information.
+- 拓展信息功能：在学术数据库平台上获取包括作者信息、期刊信息、论文代码在内的重要文献信息，为研究人员节省文献信息收集时间。
+[![41WJRf.gif](https://z3.ax1x.com/2021/09/19/41WJRf.gif)](https://imgtu.com/i/41WJRf)
 - Access to authorship information: the author's published papers are obtained from academic databases, and important bibliographic information about the papers is consulted.
+- 获取作者信息：借由学术数据库得到作者发表过的论文，并查询到论文的重要文献信息。
+[![41WTW6.gif](https://z3.ax1x.com/2021/09/19/41WTW6.gif)](https://imgtu.com/i/41WTW6)
 - Citation information: Access to literature information about citations in the literature through the Hammer Scholar academic database, effectively enhancing the researcher's efficiency.
 - 引文信息：透过Hammer Scholar学术数据库获取文献中引文的相关文献信息，有效提升研究人员的科研效率。
 [![410NWj.gif](https://z3.ax1x.com/2021/09/18/410NWj.gif)](https://imgtu.com/i/410NWj)
