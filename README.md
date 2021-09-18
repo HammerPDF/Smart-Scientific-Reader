@@ -39,6 +39,8 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 #### Special Reader Features
 
 - Academic search function: enter keywords for academic search, e.g. 'graph', and the search results will include comprehensive information on each paper, including results for sources, PDFs, code, videos, blogs, datasets, presentations, etc.
+- 学术搜索功能：输入关键字进行学术检索，例如“graph”，检索结果包括每篇论文的综合信息，包括论文来源，PDF，代码，视频，博客，数据集，演示文稿等结果。
+[![41f0XD.gif](https://z3.ax1x.com/2021/09/19/41f0XD.gif)](https://imgtu.com/i/41f0XD)
 - Conversation system: chatting with a conversation bot to get information about meetings of interest to the user, for example asking the bot "What meetings are in September 2021?" and the bot will answer with all the meetings in September.
 - Access information such as product features and other academic search software developed by the DataHammer research group, including academic search engines and knowledge graphs; choose to switch between multiple languages including Chinese, English and Japanese.
 - Information positioning & comprehension translation function: the physical information of the paper is marked and positioned by different colours, including the marking of tasks, methods, data, indicators, referents and other information, which facilitates researchers to better understand the literature.
