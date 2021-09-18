@@ -30,7 +30,7 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 [![41wlaF.gif](https://z3.ax1x.com/2021/09/18/41wlaF.gif)](https://imgtu.com/i/41wlaF)
 - Zoom, page flip, drag and drop and keyword translation in Reading Page.
 - 阅读页面缩放、翻页、拖拽和关键词翻译等功能。
-
+[![41hLad.gif](https://z3.ax1x.com/2021/09/19/41hLad.gif)](https://imgtu.com/i/41hLad)
 - Get document outlines, thumbnails and document meta-information in the left sidebar.
 - 左侧边栏获取文献大纲、缩略图和文档元信息。
 [![41drj0.gif](https://z3.ax1x.com/2021/09/18/41drj0.gif)](https://imgtu.com/i/41drj0)
@@ -88,4 +88,4 @@ Feel free to dive in! [Open an issue](https://github.com/HammerPDF/Scholar-PDF-R
 ### Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/HammerPDF/Scholar-PDF-Reader/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
