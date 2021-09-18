@@ -1,6 +1,5 @@
 # Scholar-PDF-Reader
-![Custom badge](https://img.shields.io/endpoint?style=flat-square)
-
+![img](https://img.shields.io/badge/forks-10-blue) ![img](https://img.shields.io/badge/issues-0%20open-brightgreen) ![img](https://img.shields.io/badge/license-DataHammer-orange)
 
 Hammer PDF is developed and maintained by the DataHammer research group at the School of Computer Science, Beijing Institute of Technology, and was officially released on 12 September 2021 at 22:00:00. Hammer PDF is developed using Vue+Electron technology to accurately identify and extract academic information, and is a combination of user experience and technological utility. Hammer PDF is a smart reader that combines user experience and technology with practicality.
  
