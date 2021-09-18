@@ -88,4 +88,4 @@ Feel free to dive in! [Open an issue](https://github.com/HammerPDF/Scholar-PDF-R
 ### Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/HammerPDF/Scholar-PDF-Reader/graphs/contributors"><img src="https://z3.ax1x.com/2021/09/19/414pM8.png" /></a>
+<a href="https://github.com/HammerPDF/Scholar-PDF-Reader/graphs/contributors"><img src="https://z3.ax1x.com/2021/09/19/414pM8.md.png" /></a>
