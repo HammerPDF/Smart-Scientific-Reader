@@ -1,4 +1,7 @@
 # Scholar-PDF-Reader
+![Custom badge](https://img.shields.io/endpoint?style=flat-square)
+
+
 Hammer PDF is developed and maintained by the DataHammer research group at the School of Computer Science, Beijing Institute of Technology, and was officially released on 12 September 2021 at 22:00:00. Hammer PDF is developed using Vue+Electron technology to accurately identify and extract academic information, and is a combination of user experience and technological utility. Hammer PDF is a smart reader that combines user experience and technology with practicality.
  
 Hammer PDF, as a new technology intelligent reader, it forms an organic whole by data association and knowledge mining of academic resources such as papers, author information, academic report videos, datasets, codes, academic PPTs, academic blogs, etc. It not only provides traditional PDF reading functions, but also supports tasks such as information extraction, text mining and semantic analysis in natural language processing, extending the functions of the reader It provides researchers with relevant information about the literature, saves time in collecting literature and information, and significantly improves research efficiency. The extended academic functions mainly include information extraction, information extension, citation relations, dialogue system and reading comprehension. By integrating data from multiple sources and modalities on the Internet, Hammer PDF provides a one-stop PDF reader function to provide researchers with timely, accurate, most comprehensive and cutting-edge academic information, thus efficiently providing academic services to researchers and effectively enhancing the efficiency of their research.
@@ -40,7 +43,8 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 - Expanded Information Functionality: Access important literature information including author information, journal information and paper codes on the academic database platform, saving researchers time in collecting literature information.
 - Access to authorship information: the author's published papers are obtained from academic databases, and important bibliographic information about the papers is consulted.
 - Citation information: Access to literature information about citations in the literature through the Hammer Scholar academic database, effectively enhancing the researcher's efficiency.
-
+- 引文信息：透过Hammer Scholar学术数据库获取文献中引文的相关文献信息，有效提升研究人员的科研效率。
+<a href="https://imgtu.com/i/410NWj"><img src="https://z3.ax1x.com/2021/09/18/410NWj.gif" alt="410NWj.gif" border="0" /></a>
 
 
 ## Install
