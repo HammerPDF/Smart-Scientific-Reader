@@ -42,7 +42,11 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 - 学术搜索功能：输入关键字进行学术检索，例如“graph”，检索结果包括每篇论文的综合信息，包括论文来源，PDF，代码，视频，博客，数据集，演示文稿等结果。
 [![41f0XD.gif](https://z3.ax1x.com/2021/09/19/41f0XD.gif)](https://imgtu.com/i/41f0XD)
 - Conversation system: chatting with a conversation bot to get information about meetings of interest to the user, for example asking the bot "What meetings are in September 2021?" and the bot will answer with all the meetings in September.
+- 对话系统：与对话机器人聊天获取用户感兴趣的会议信息，例如向机器人询问“2021年9月有什么会议？”，机器人会回答9月的所有会议。
+[![41heDe.gif](https://z3.ax1x.com/2021/09/19/41heDe.gif)](https://imgtu.com/i/41heDe)
 - Access information such as product features and other academic search software developed by the DataHammer research group, including academic search engines and knowledge graphs; choose to switch between multiple languages including Chinese, English and Japanese.
+- 获取产品功能等信息以及DataHammer研究组开发的其他学术搜索软件，包括学术搜索引擎和知识图谱；选择切换包括中文、英文、日文在内的多种语言。
+[![41hmHH.gif](https://z3.ax1x.com/2021/09/19/41hmHH.gif)](https://imgtu.com/i/41hmHH)
 - Information positioning & comprehension translation function: the physical information of the paper is marked and positioned by different colours, including the marking of tasks, methods, data, indicators, referents and other information, which facilitates researchers to better understand the literature.
 - 信息定位及理解翻译功能：通过不同颜色对论文的实体信息进行标注和定位，包括任务、方法、数据、指标、指代等信息的标注，方便研究人员更好地理解文献。
 [![41fzB4.gif](https://z3.ax1x.com/2021/09/19/41fzB4.gif)](https://imgtu.com/i/41fzB4)
