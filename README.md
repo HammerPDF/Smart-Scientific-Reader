@@ -50,7 +50,7 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 [![41WTW6.gif](https://z3.ax1x.com/2021/09/19/41WTW6.gif)](https://imgtu.com/i/41WTW6)
 - Citation information: Access to literature information about citations in the literature through the Hammer Scholar academic database, effectively enhancing the researcher's efficiency.
 - 引文信息：透过Hammer Scholar学术数据库获取文献中引文的相关文献信息，有效提升研究人员的科研效率。
-[![410NWj.gif](https://z3.ax1x.com/2021/09/18/410NWj.gif)](https://imgtu.com/i/410NWj)
+[![41rr0P.gif](https://z3.ax1x.com/2021/09/18/41rr0P.gif)](https://imgtu.com/i/41rr0P)
 
 
 ## Install
