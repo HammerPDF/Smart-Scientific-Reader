@@ -32,6 +32,8 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 - 阅读页面缩放、翻页、拖拽和关键词翻译等功能。
 
 - Get document outlines, thumbnails and document meta-information in the left sidebar.
+- 左侧边栏获取文献大纲、缩略图和文档元信息。
+[![41drj0.gif](https://z3.ax1x.com/2021/09/18/41drj0.gif)](https://imgtu.com/i/41drj0)
 
 
 #### Special Reader Features
@@ -44,7 +46,7 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 - Access to authorship information: the author's published papers are obtained from academic databases, and important bibliographic information about the papers is consulted.
 - Citation information: Access to literature information about citations in the literature through the Hammer Scholar academic database, effectively enhancing the researcher's efficiency.
 - 引文信息：透过Hammer Scholar学术数据库获取文献中引文的相关文献信息，有效提升研究人员的科研效率。
-<a href="https://imgtu.com/i/410NWj"><img src="https://z3.ax1x.com/2021/09/18/410NWj.gif" alt="410NWj.gif" border="0" /></a>
+[![410NWj.gif](https://z3.ax1x.com/2021/09/18/410NWj.gif)](https://imgtu.com/i/410NWj)
 
 
 ## Install
