@@ -29,7 +29,10 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 - Academic search function: enter keywords for academic search, e.g. 'graph', and the search results will include comprehensive information on each paper, including results for sources, PDFs, code, videos, blogs, datasets, presentations, etc.
 - Conversation system: chatting with a conversation bot to get information about meetings of interest to the user, for example asking the bot "What meetings are in September 2021?" and the bot will answer with all the meetings in September.
 - Access information such as product features and other academic search software developed by the DataHammer research group, including academic search engines and knowledge graphs; choose to switch between multiple languages including Chinese, English and Japanese.
-- 
+- Information positioning & comprehension translation function: the physical information of the paper is marked and positioned by different colours, including the marking of tasks, methods, data, indicators, referents and other information, which facilitates researchers to better understand the literature.
+- Expanded Information Functionality: Access important literature information including author information, journal information and paper codes on the academic database platform, saving researchers time in collecting literature information.
+- Access to authorship information: the author's published papers are obtained from academic databases, and important bibliographic information about the papers is consulted.
+- Citation information: Access to literature information about citations in the literature through the Hammer Scholar academic database, effectively enhancing the researcher's efficiency.
 
 
 
