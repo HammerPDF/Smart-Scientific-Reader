@@ -19,6 +19,8 @@ Hammer PDF作为全新科技智能阅读器，它将论文、作者信息、学�
 #### Basic Reader Features
 
 - Upload PDFs by dragging or remote link.
+- 上传PDF，可以通过拖拽或点击上传，也可以通过远程链接上传。
+![image](https://github.com/HammerPDF/Scholar-PDF-Reader/tree/jwj/graphs/拖拽打开.gif)
 - Open, bookmark and delete uploaded pdfs.
 - Zoom, page flip, drag and drop and keyword translation in Reading Page.
 - Get document outlines, thumbnails and document meta-information in the left sidebar.
