@@ -1,6 +1,6 @@
 # Hammer PDF - Smart Science Reader
 
-<img height="40" src="./images/logo.svg" alt="Hammer PDF" title="Hammer PDF" style="margin: 10px 0 16px;"/>
+![Logo](./images/logo.svg)
 
 Hammer PDF, a brand new smart science reader developed and supported by the DataHammer Research Group at the School of Computer Science, Beijing Institute of Technology, provides fast analysis of PDF documents and reliable academic information in real time. Look here to boost your research productivity!
 
@@ -93,7 +93,7 @@ For macOS, if the app cannot be opened because the developer cannot be verified,
 
 对于 macOS，因无法验证开发者而无法打开应用时，只需允许`安全性与隐私`中的`仍要打开`选项即可。
 
-#### System Requirements
+### System Requirements
 
 - Windows: Windows 10 or higher (64-bit)
 - macOS: macOS X or higher
@@ -106,7 +106,7 @@ File an issue:
 - [Google Form](https://forms.gle/QzZXm1nUAdeWLrwC7)
 - [Tencent Form](https://wj.qq.com/s2/8973789/a3d8/)
 
-### Contributors
+## Contributors
 
 Thank you to all the members who participated in this project!<br>
 感谢参与该项目的所有成员！
