@@ -111,11 +111,11 @@ File an issue:
 Thank you to all the members who participated in this project!<br>
 感谢参与该项目的所有成员！
 
-<a href="https://github.com/wongself" style="padding-right: 5px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/32129269?v=4" alt="Wang Shengfu" title="Wang Shengfu"/></a>
-<a href="https://github.com/BITLiuSH" style="padding-right: 5px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/25365134?v=4" alt="Liu Shuhang" title="Liu Shuhang"/></a>
-<a href="https://github.com/Lyfralston" style="padding-right: 5px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/53141839?v=4" alt="Lu Yifan" title="Lu Yifan"/></a>
-<a href="https://github.com/JWJ990626" style="padding-right: 5px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/37203921?v=4" alt="Ji Wenjin" title="Ji Wenjin"/></a>
-<a href="https://github.com/MyPoet" style="padding-right: 5px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/30171642?v=4" alt="Zhu Jie" title="Zhu Jie"/></a>
-<a href="https://github.com/1034829217" style="padding-right: 5px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/64821930?v=4" alt="Zhao Guanqi" title="Zhao Guanqi"/></a>
-<a href="https://github.com/sherylxun" style="padding-right: 5px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/87694221?v=4" alt="Yang Shuxun" title="Yang Shuxun"/></a>
+<a href="https://github.com/wongself" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/32129269?v=4" alt="Wang Shengfu" title="Wang Shengfu"/></a>
+<a href="https://github.com/BITLiuSH" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/25365134?v=4" alt="Liu Shuhang" title="Liu Shuhang"/></a>
+<a href="https://github.com/Lyfralston" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/53141839?v=4" alt="Lu Yifan" title="Lu Yifan"/></a>
+<a href="https://github.com/JWJ990626" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/37203921?v=4" alt="Ji Wenjin" title="Ji Wenjin"/></a>
+<a href="https://github.com/MyPoet" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/30171642?v=4" alt="Zhu Jie" title="Zhu Jie"/></a>
+<a href="https://github.com/1034829217" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/64821930?v=4" alt="Zhao Guanqi" title="Zhao Guanqi"/></a>
+<a href="https://github.com/sherylxun" style="padding-right: 8px;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/87694221?v=4" alt="Yang Shuxun" title="Yang Shuxun"/></a>
 <a href="https://github.com/Accepted-Coder" style="padding-right: 0;"><img width="60" height="60" src="https://avatars.githubusercontent.com/u/65277840?v=4" alt="Ke Qi" title="Ke Qi"/></a>
