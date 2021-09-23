@@ -103,8 +103,8 @@ For macOS, if the app cannot be opened because the developer cannot be verified,
 File an issue:
 
 - [Github Issues](https://github.com/HammerPDF/Scholar-PDF-Reader/issues/new)
-- [Google Form](https://forms.gle/QzZXm1nUAdeWLrwC7)
-- [Tencent Form](https://wj.qq.com/s2/8973789/a3d8/)
+- [Google Form (English)](https://forms.gle/QzZXm1nUAdeWLrwC7)
+- [Tencent Form (Chinese)](https://wj.qq.com/s2/8973789/a3d8/)
 
 ## Contributors
 
