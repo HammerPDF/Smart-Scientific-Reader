@@ -1,6 +1,6 @@
 # Hammer PDF - Smart Science Reader
 
-![Logo](./images/logo.svg)
+<img height="40" src="./images/logo.svg" alt="Hammer PDF" title="Hammer PDF" style="margin: 10px 0 16px;"/>
 
 Hammer PDF, a brand new smart science reader developed and supported by the DataHammer Research Group at the School of Computer Science, Beijing Institute of Technology, provides fast analysis of PDF documents and reliable academic information in real time. Look here to boost your research productivity!
 
@@ -9,15 +9,10 @@ Hammer PDF combines academic resources such as papers, authors, report videos, d
 As the core component of the application, the academic features include information extraction, information extension, academic search, and academic dialog. Hammer PDF is designed to deliver a one-stop PDF reading experience by fusing data from multiple sources and modalities on the academic search engine [Hammer Scholar](http://hammerscholar.net/). The following are key features.
 
 - **Simple Interaction**. With reasonable interaction, it supports smooth operation on screens of any size.
-
 - **Seamless Use**. Windows, MacOS and Linux supported. All functions can also be used in modern browsers.
-
 - **Info Protection**. Any private information about you will not sent to the server, only for scholar analysis.
-
 - **Extract Scholar**. Relying on machine learning, structure of PDF and scientific terms can be extracted.
-
 - **Translation**. Multilingual explanations in Chinese, English can be fetched anytime, anywhere.
-
 - **Citation Network**. Analyze the citation network of papers, look at scientific frontiers in the world.
 
 Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
